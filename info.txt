@@ -1,0 +1,8 @@
+index.html: contém o conteúdo da página;
+assets (ou scr): contém recursos desenvolvidos que estarão na pasta;
+css: contém o css usado para estilizar o conteúdo;
+js: contém os códigos em JavaScript usados para adicionar funcionalidades interativas;
+scss: contém os códigos Sass usados para dar estilo ao conteúdo;
+image: contém as imagens usadas no projeto;
+fonts: estão as fontes usadas no projeto;
+vendor: contém todas as dependências do projeto desenvolvido por terceiros, como bibliotecas e plugins.
