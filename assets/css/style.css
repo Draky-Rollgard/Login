@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?familly=Ancizar+Serif:ital,wght@0,300..900;1,300..&familly=Montserrant:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?familly=Ancizar+Serif:ital,wght@0,300..900;1,300..&familly=Montserrat:ital,wght@0,100..900;1,100..900&familly=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +11,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/assets/img/1.jpg') no-repeat;
+    background-image: url('../img/1.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     /*background-color: bisque;*/
@@ -30,7 +31,7 @@ body {
     align-items: center;
 }
 
-.wrapper imput-box {
+.wrapper input-box {
     position: relative;
     margin: 100px 0;
     width: 100%;
